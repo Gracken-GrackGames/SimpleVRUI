@@ -1,8 +1,12 @@
 # SimpleVRUI
-Drag and drop a basic UI for your VR game. Builds off of VRTK and SteamVR Plugin (Those will be needed separately)
+Drag and drop a basic UI for your VR game. **VRTK and SteamVR Plugin will be needed! (Can find these in Unity Asset Store)**
 
 Changelog
 ------------
+SimpleVRUI v0.46
+
+* Made README PDF easier to understand and bolded for skimming (YAY less reading)
+
 SimpleVRUI v0.45 Release!
 
 **Features:**
